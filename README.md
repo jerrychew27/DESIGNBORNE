@@ -1,1 +1,1 @@
-# DESIGNBORNE
+DESIGNBORNE is a roguelike turn-based game coded in Java programming language using Object Oriented Programming.
